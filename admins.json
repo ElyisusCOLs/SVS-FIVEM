@@ -1,0 +1,69 @@
+[
+  {
+    "name": "YisusCOL",
+    "master": true,
+    "password_hash": "$2a$11$yXh1hXSJ.XdbgsSvaHFHg.Ajg5zYGxVW3VZyJNfrgYauY63WON/lq",
+    "providers": {
+      "citizenfx": {
+        "id": "YisusCOL",
+        "identifier": "fivem:8781446",
+        "data": {
+          "sub": "86dd9b2c03810ad9111aefe09ef06cf8",
+          "nameid": "https://forum.cfx.re/internal/user/8781446",
+          "name": "YisusCOL",
+          "picture": "https://avatars.discourse.org/v4/letter/y/7933a0/256.png",
+          "profile": "https://forum.cfx.re/u/YisusCOL"
+        }
+      }
+    },
+    "permissions": []
+  },
+  {
+    "name": "ElyisusCOLYT",
+    "master": false,
+    "password_hash": "$2a$11$aIk./yDn1qdzeDjs1dvoW.Ja3zgUu3n.1VhjlSmM.SW03SRLkxvSS",
+    "password_temporary": true,
+    "providers": {
+      "discord": {
+        "id": "956268336088502363",
+        "identifier": "discord:956268336088502363",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "ANGELPATICO",
+    "master": false,
+    "password_hash": "$2a$11$OoAkk6UgCKb4JxP2sOPWL.P/AKDVwd0lBIEDITWKZO/sw8peiaPCu",
+    "password_temporary": true,
+    "providers": {
+      "discord": {
+        "id": "646799707531771934",
+        "identifier": "discord:646799707531771934",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "Rolame",
+    "master": false,
+    "password_hash": "$2a$11$RYrKYiXm.a1s9JImgmxBVeFGD3xSOVzZF2904IdzLQIaLa5ui7EP6",
+    "password_temporary": true,
+    "providers": {
+      "discord": {
+        "id": "601969234838421534",
+        "identifier": "discord:601969234838421534",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  }
+]
